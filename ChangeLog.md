@@ -1,1 +1,1 @@
-ChangeLog rep1
+Line conflict 2
